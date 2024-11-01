@@ -5,7 +5,7 @@
 ### 💻Cloud Security Engineer | 🌐 GRC Specialist |  Cybersecurity professional
 
 </div>
----
+
 I am a Cybersecurity professional with deep understanding of cloud security and passionate about enhancing organization’s security posture.
 
 <div align="center"> 
@@ -32,7 +32,7 @@ I am a Cybersecurity professional with deep understanding of cloud security and 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MaryCybSec)
 
 </div>
-----
+---
 <div align="center"> 
 <div align="center"> 
   
@@ -55,6 +55,7 @@ I am a Cybersecurity professional with deep understanding of cloud security and 
 [![AZURE-104](https://img.shields.io/badge/AZURE%20ADMINISTRATOR-0078D4?style=flat&logo=microsoft-azure)](https://learn.microsoft.com/api/credentials/share/en-us/MaryBamisile-0523/AED12115C4EDC0BD?sharingId=EC7F52AD2362AAA5) 
 [![ISC2 CC](https://img.shields.io/badge/ISC2%20-CC-brightgreen)](https://www.credly.com/badges/e78aaf9e-31d4-40a2-80e6-1d435eb70de5/public_url)
 [![SC-200](https://img.shields.io/badge/SC--200-Certified-blue)](https://learn.microsoft.com/api/credentials/share/en-us/MaryBamisile-0523/8957931857A5C444?sharingId=EC7F52AD2362AAA5)
+[![Endpoint Security](https://img.shields.io/badge/Credly-Endpoint%20Security-blue?style=flat&logo=credly)](https://www.credly.com/badges/e924c4f9-b740-4f19-bb4b-5cc9c9fe4f88/public_url)
 
 
 
