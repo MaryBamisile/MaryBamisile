@@ -32,6 +32,16 @@ I am a Cybersecurity professional with deep understanding of cloud security and 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MaryCybSec)
 
 </div>
+----
+<div align="center"> 
+  
+### 🏆 Certifications
+
+[![AZURE-104](https://img.shields.io/badge/AZURE%20ADMINISTRATOR-0078D4?style=flat&logo=microsoft-azure)](https://learn.microsoft.com/api/credentials/share/en-us/MaryBamisile-0523/AED12115C4EDC0BD?sharingId=EC7F52AD2362AAA5) 
+[![ISC2 CC]()
+
+
+</div>
 <!--
 **MaryBamisile/MaryBamisile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
