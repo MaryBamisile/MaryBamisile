@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### 💻Cloud Security Engineer | 🌐 GRC Specialist |  Cybersecurity professional | Information Security
+### 💻Cloud Security Engineer | 🌐 GRC Specialist |  🕵️‍♀️🛡️Cybersecurity professional | 🕵️‍♀️💻 Information Security
 
 </div>
 
