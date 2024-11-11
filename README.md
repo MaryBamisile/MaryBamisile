@@ -1,8 +1,8 @@
-## 👋Hi, I'm Mary!
+## 👋Hi there, my name is Mary!
 
 <div align="center">
   
-### 💻Cloud Security Engineer | 🌐 GRC Specialist |  Cybersecurity professional
+### 💻Cloud Security Engineer | 🌐 GRC Specialist |  Cybersecurity professional | Information Security
 
 </div>
 
