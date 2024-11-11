@@ -1,4 +1,4 @@
-## 👋Hi there, my name is Mary!
+## 👋Hi there! My name is Mary Bamisile.
 
 <div align="center">
   
