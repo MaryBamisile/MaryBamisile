@@ -6,7 +6,7 @@
 
 </div>
 
-I am a Cybersecurity professional with deep understanding of cloud security and passionate about enhancing organization’s security posture.
+I am a Cybersecurity professional with deep understanding of cloud security and passionate about enhancing organization’s security posture. I have over five years’ substantial experience in securing, maintaining, optimizing, and troubleshooting IT infrastructures both on-premises and cloud platform
 
 <div align="center"> 
   
