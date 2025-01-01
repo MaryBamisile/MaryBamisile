@@ -1,4 +1,4 @@
-## 👋Hi there! My name is Mary Bamisile.
+## 👋Hi there! My name is Mary.
 
 <div align="center">
   
@@ -47,7 +47,7 @@ I am a versatile cloud professional with a deep expertise in cloud security and 
 **IAC & AUTOMATION:**![PowerShell](https://img.shields.io/badge/POWERSHELL-5391FE?style=flat&logo=powershell) ![Bash](https://img.shields.io/badge/BASH-4EAA25?style=flat&logo=gnu-bash) ![Azure Resource Manager](https://img.shields.io/badge/AZURE%20RESOURCE%20MANAGER-0078D4?style=flat&logo=microsoft-azure) ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json) ![YAML](https://img.shields.io/badge/YAML-000080?style=flat&logo=yaml) ![Shell](https://img.shields.io/badge/SHELL-4EAA25?style=flat&logo=gnu-bash)
 **INFRASTRUCTURE MANAGEMENT:**![Azure AD](https://img.shields.io/badge/AZURE%20AD-0078D4?style=flat&logo=microsoft-azure)
 **VERSIONING:** ![Git](https://img.shields.io/badge/GIT-F05032?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=flat&logo=github) ![Azure Repos](https://img.shields.io/badge/AZURE%20REPOS-0078D4?style=flat&logo=azure-devops) ![GitHub Pages](https://img.shields.io/badge/GITHUB-PAGES-181717?style=flat&logo=github-pages)
-
+**SECURITY TOOL:** !SonarQube
 **TICKETING & COLLABORATION:** ![D365](https://img.shields.io/badge/Dynamics%20365-D83B01?style=flat&logo=microsoft) ![Zoho Desk](https://img.shields.io/badge/ZOHO%20DESK-FF4A00?style=flat&logo=zoho) ![Google Workspace](https://img.shields.io/badge/GOOGLE%20WORKSPACE-4285F4?style=flat&logo=google) ![Slack](https://img.shields.io/badge/SLACK-4A154B?style=flat&logo=slack) ![Canva](https://img.shields.io/badge/CANVA-00C4CC?style=flat&logo=canva)
   
 ### 🏆 Certifications
