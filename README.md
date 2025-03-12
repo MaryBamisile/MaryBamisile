@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### 💻Cloud Security Engineer | 🌐 DevOps Engineer |  🕵️‍♀️🛡️Cybersecurity professional | 🕵️‍♀️💻 InfoSec
+### 💻Cloud & Security Engineer | 🌐 DevOps Engineer |  🕵️‍♀️🛡️Cybersecurity professional | 🕵️‍♀️💻 InfoSec
 
 </div>
 
