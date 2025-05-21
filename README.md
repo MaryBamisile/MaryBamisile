@@ -7,7 +7,7 @@
 </div>
 
 <br>
-I am a versatile cloud professional with a deep expertise in cloud security and a strong commitment to strengthening organizational security postures. With over five years of experience, I specialize in securing, maintaining, optimizing, and troubleshooting IT infrastructures across both on-premises and cloud environments. Overall, ensuring compliance with industry standards.
+I am a versatile cloud professional with a deep expertise in cloud security and a strong commitment to strengthening organizational security postures. With almost five years of experience, I specialize in securing, maintaining, optimizing, and troubleshooting IT infrastructures across both on-premises and cloud environments. Overall, ensuring compliance with industry standards.
 
 <div align="center"> 
   
@@ -54,7 +54,8 @@ I am a versatile cloud professional with a deep expertise in cloud security and 
 
 [![AZURE-104](https://img.shields.io/badge/AZURE%20ADMINISTRATOR-0078D4?style=flat&logo=microsoft-azure)](https://learn.microsoft.com/api/credentials/share/en-us/MaryBamisile-0523/AED12115C4EDC0BD?sharingId=EC7F52AD2362AAA5) 
 [![ISC2 CC](https://img.shields.io/badge/ISC2%20-CC-brightgreen)](https://www.credly.com/badges/e78aaf9e-31d4-40a2-80e6-1d435eb70de5/public_url)
-[![SC-200](https://img.shields.io/badge/SC--200-Certified-blue)](https://learn.microsoft.com/api/credentials/share/en-us/MaryBamisile-0523/8957931857A5C444?sharingId=EC7F52AD2362AAA5)
+[![SC-900](https://img.shields.io/badge/SC--900-Certified-blue)](https://learn.microsoft.com/api/credentials/share/en-us/MaryBamisile-0523/8957931857A5C444?sharingId=EC7F52AD2362AAA5)
+[![Az-500](https://img.shields.io/badge/AZ--500-Certified-blue)](https://learn.microsoft.com/api/credentials/share/en-us/MaryBamisile-0523/3B0AEF4CE6254E91?sharingId=EC7F52AD2362AAA5)
 [![Endpoint Security](https://img.shields.io/badge/Credly-Endpoint%20Security-blue?style=flat&logo=credly)](https://www.credly.com/badges/e924c4f9-b740-4f19-bb4b-5cc9c9fe4f88/public_url)
 
 
