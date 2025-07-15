@@ -7,7 +7,7 @@
 </div>
 
 <br>
-I am a versatile cloud professional with a deep expertise in cloud security and a strong commitment to strengthening organizational security postures. With almost five years of experience, I specialize in securing, maintaining, optimizing, and troubleshooting IT infrastructures across both on-premises and cloud environments. Overall, ensuring compliance with industry standards.
+I am a versatile cloud professional with a deep expertise in cloud computing and a strong commitment to strengthening organizational security postures. With five years of experience, I specialize in designing, implementing, securing, maintaining, optimizing, and troubleshooting IT infrastructures across both on-premises and cloud environments. Overall, ensuring compliance with industry standards.
 
 <div align="center"> 
   
