@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### 💻Cloud Infrastructure | 🌐 DevOps Engineer |  🕵️‍♀️🛡️Cloud Security Engineer | 🕵️‍♀️💻 IAM
+### 💻Cloud Infrastructure | 🌐 DevOps Engineer |  🕵️‍♀️🛡️Cloud Security Engineer | 🕵️‍♀️ IAM Specialist
 
 </div>
 
