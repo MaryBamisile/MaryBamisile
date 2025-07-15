@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### 💻Cloud Imfrastructure | 🌐 DevOps Engineer |  🕵️‍♀️🛡️Cloud Security Engineer | 🕵️‍♀️💻 IAM
+### 💻Cloud Infrastructure | 🌐 DevOps Engineer |  🕵️‍♀️🛡️Cloud Security Engineer | 🕵️‍♀️💻 IAM
 
 </div>
 
@@ -32,7 +32,8 @@ I am a versatile cloud professional with a deep expertise in cloud computing and
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MaryCybSec)
 
 </div>
----
+
+
 <div align="center"> 
 <div align="center"> 
   
@@ -40,23 +41,44 @@ I am a versatile cloud professional with a deep expertise in cloud computing and
 
  </div>
 
-**PLATFORMS:** ![Azure](https://img.shields.io/badge/AZURE-0078D4?style=flat&logo=microsoft-azure) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud) ![Linux](https://img.shields.io/badge/LINUX-FCC624?style=flat&logo=linux) ![Windows](https://img.shields.io/badge/WINDOWS-0078D6?style=flat&logo=windows) 
-**MONITORING:** ![Azure Monitor](https://img.shields.io/badge/AZURE%20MONITOR-2563EB?style=flat) ![Azure App Insight](https://img.shields.io/badge/AZURE%20APP%20INSIGHT-0078D4?style=flat)
-**CI/CD:** ![GitHub Actions](https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF?style=flat&logo=github-actions) ![Jenkins](https://img.shields.io/badge/JENKINS-D24939?style=flat&logo=jenkins) ![Azure DevOps](https://img.shields.io/badge/AZURE%20DEVOPS-0078D7?style=flat&logo=azure-devops)
-**CONTAINERIZATION & ORCHESTRATION:** ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=flat&logo=docker) 
-**IAC & AUTOMATION:**![PowerShell](https://img.shields.io/badge/POWERSHELL-5391FE?style=flat&logo=powershell) ![Bash](https://img.shields.io/badge/BASH-4EAA25?style=flat&logo=gnu-bash) ![Azure Resource Manager](https://img.shields.io/badge/AZURE%20RESOURCE%20MANAGER-0078D4?style=flat&logo=microsoft-azure) ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json) ![YAML](https://img.shields.io/badge/YAML-000080?style=flat&logo=yaml) ![Shell](https://img.shields.io/badge/SHELL-4EAA25?style=flat&logo=gnu-bash)
-**INFRASTRUCTURE MANAGEMENT:**![Azure AD](https://img.shields.io/badge/AZURE%20AD-0078D4?style=flat&logo=microsoft-azure)
-**VERSIONING:** ![Git](https://img.shields.io/badge/GIT-F05032?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=flat&logo=github) ![Azure Repos](https://img.shields.io/badge/AZURE%20REPOS-0078D4?style=flat&logo=azure-devops) ![GitHub Pages](https://img.shields.io/badge/GITHUB-PAGES-181717?style=flat&logo=github-pages)
-**SECURITY TOOL:**![SonarQube](https://img.shields.io/badge/SonarQube-D24939?style=flat&logo=SonarQube)
-**TICKETING & COLLABORATION:** ![D365](https://img.shields.io/badge/Dynamics%20365-D83B01?style=flat&logo=microsoft) ![Zoho Desk](https://img.shields.io/badge/ZOHO%20DESK-FF4A00?style=flat&logo=zoho) ![Google Workspace](https://img.shields.io/badge/GOOGLE%20WORKSPACE-4285F4?style=flat&logo=google) ![Slack](https://img.shields.io/badge/SLACK-4A154B?style=flat&logo=slack) ![Canva](https://img.shields.io/badge/CANVA-00C4CC?style=flat&logo=canva)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-ffffff?style=for-the-badge&logo=yaml&logoColor=000)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Huawei Cloud](https://img.shields.io/badge/Huawei_Cloud-D60000?style=for-the-badge&logo=huawei&logoColor=white)
+![Azure Resource Manager](https://img.shields.io/badge/Azure_Resource_Manager-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure App Insights](https://img.shields.io/badge/Application_Insights-5C2D91?style=for-the-badge&logo=azurefunctions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+
   
 ### 🏆 Certifications
 
-[![AZURE-104](https://img.shields.io/badge/AZURE%20ADMINISTRATOR-0078D4?style=flat&logo=microsoft-azure)](https://learn.microsoft.com/api/credentials/share/en-us/MaryBamisile-0523/AED12115C4EDC0BD?sharingId=EC7F52AD2362AAA5) 
-[![ISC2 CC](https://img.shields.io/badge/ISC2%20-CC-brightgreen)](https://www.credly.com/badges/e78aaf9e-31d4-40a2-80e6-1d435eb70de5/public_url)
-[![SC-900](https://img.shields.io/badge/SC--900-Certified-blue)](https://learn.microsoft.com/api/credentials/share/en-us/MaryBamisile-0523/8957931857A5C444?sharingId=EC7F52AD2362AAA5)
-[![Az-500](https://img.shields.io/badge/AZ--500-Certified-blue)](https://learn.microsoft.com/api/credentials/share/en-us/MaryBamisile-0523/3B0AEF4CE6254E91?sharingId=EC7F52AD2362AAA5)
-[![Endpoint Security](https://img.shields.io/badge/Credly-Endpoint%20Security-blue?style=flat&logo=credly)](https://www.credly.com/badges/e924c4f9-b740-4f19-bb4b-5cc9c9fe4f88/public_url)
+![AZ-900](https://img.shields.io/badge/AZ--900-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![AZ-104](https://img.shields.io/badge/AZ--104-Azure_Admin_Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AZ-400](https://img.shields.io/badge/AZ--400-DevOps_Engineer_Expert-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
+![AZ-500](https://img.shields.io/badge/AZ--500-Azure_Security_Engineer-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![SC-900](https://img.shields.io/badge/SC--900-Security,_Compliance_&_Identity_Fundamentals-111927?style=for-the-badge&logo=microsoft&logoColor=white)
+![SC-401](https://img.shields.io/badge/SC--401-Administering_Information_Security_in_Microsoft_365_certification-111927?style=for-the-badge&logo=microsoft&logoColor=white)
+![CC (ISC2)](https://img.shields.io/badge/Certified_in_Cybersecurity_(CC)-(ISC)²-0066A1?style=for-the-badge&logo=isc2&logoColor=white)
+![KCNA](https://img.shields.io/badge/KCNA-Kubernetes_&_Cloud_Native_Associate-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Foundations](https://img.shields.io/badge/GitHub_Foundations-Certified-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
 
