@@ -14,6 +14,7 @@ I am a versatile cloud professional with a deep expertise in cloud computing and
   ### 👀 Profile Views 
   
 </div>
+
 <div align="center">  
   
   ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=MaryBamisile)
@@ -33,13 +34,12 @@ I am a versatile cloud professional with a deep expertise in cloud computing and
 
 </div>
 
+---
+---
 
-<div align="center"> 
-<div align="center"> 
+<div align="center">  
   
 ### 🛠️ Tools & Technologies
-
- </div>
 
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
@@ -67,6 +67,12 @@ I am a versatile cloud professional with a deep expertise in cloud computing and
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
+</div>
+
+ ---
+ ---
+
+ <div align="center">  
   
 ### 🏆 Certifications
 
