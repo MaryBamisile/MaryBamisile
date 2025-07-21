@@ -21,7 +21,7 @@ I am a versatile cloud professional with a deep expertise in cloud computing and
 
  </div>
 
- ---
+
  ---
 
  <div align="center"> 
@@ -34,7 +34,7 @@ I am a versatile cloud professional with a deep expertise in cloud computing and
 
 </div>
 
----
+
 ---
 
 <div align="center">  
@@ -69,7 +69,7 @@ I am a versatile cloud professional with a deep expertise in cloud computing and
 
 </div>
 
- ---
+
  ---
 
  <div align="center">  
